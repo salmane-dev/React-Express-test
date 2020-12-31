@@ -1,1 +1,10 @@
 me
+https://www.freecodecamp.org/news/how-to-make-create-react-app-work-with-a-node-backend-api-7c5c48acb1b0/
+
+https://github.com/esausilva/example-create-react-app-express/blob/master/client/package.json
+
+
+necessary
+
+****https://www.techiediaries.com/fake-api-jwt-json-server/
+****https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with-example-api
